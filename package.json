@@ -1,0 +1,25 @@
+{
+  "name": "libgd",
+  "version": "1.0.0",
+  "description": "Library",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GDProMalwareCleanerAndEasyTaxEvasion/libgd.git"
+  },
+  "author": "GDProMalwareCleanerAndEasyTaxEvasion",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GDProMalwareCleanerAndEasyTaxEvasion/libgd/issues"
+  },
+  "homepage": "https://github.com/GDProMalwareCleanerAndEasyTaxEvasion/libgd#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
